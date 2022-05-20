@@ -12,11 +12,11 @@ var image2 = document.querySelectorAll("img") [1];
 image2.setAttribute("src", imgSource2);
 
 if (randomNumber1 > randomNumber2) {
-    document.querySelector("h1").innerHTML = "🚩 Player 1 wins!";
+    document.querySelector("h1").innerHTML = "🚩 Makayla wins!";
 }
 else if (randomNumber2 > randomNumber1) {
-    document.querySelector("h1").innerHTML = "🚩 Player 2 wins!";
+    document.querySelector("h1").innerHTML = "🚩 Yonnick wins :P";
 }
 else {
-    document.querySelector("h1").innerHTML = "It's a Draw!";
+    document.querySelector("h1").innerHTML = "It's a draw but Yonnick (YES ME) I still win!! MUAHAHAHAHA";
 }
