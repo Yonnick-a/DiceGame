@@ -18,5 +18,5 @@ else if (randomNumber2 > randomNumber1) {
     document.querySelector("h1").innerHTML = "🚩 Yonnick wins :P";
 }
 else {
-    document.querySelector("h1").innerHTML = "It's a draw but Yonnick (YES ME) I still win!! MUAHAHAHAHA";
+    document.querySelector("h1").innerHTML = "It's a draw but Yonnick I still win!! MUAHAHAHAHA";
 }
